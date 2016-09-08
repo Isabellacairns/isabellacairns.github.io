@@ -1,0 +1,30 @@
+body {
+/* background: #FE64A3;*/
+}
+
+div {
+  background: #F686BD;
+  height:200px;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.first {
+  background: #CDF7F6;
+}
+
+.second {
+  background: #FFC4EB;
+}
+
+.third {
+  background: #E9D758;
+}
+
+.fourth {
+  background: #C4B2BC;
+}
+
+.fourth {
+  background: #F0BCD4;
+}
